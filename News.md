@@ -1,3 +1,180 @@
+# 2024-05-01 Business Central 2024 release wave 1 launch event content for developers
+
+In April 2024, the Business Central 2024 release wave 1 launch event went live with videos on the latest innovations for Business Central to you through an all-access digital experience. They contain high-quality content presented by product leaders to enable you to learn how to take Business Central to the next level as a developer. All 100% free. All you need to do is to visit the [Business Central Youtube channel](https://www.youtube.com/@MicrosoftDynamics365BC) and then set aside time to learn and digest. There's a lot of content, so maybe set aside 20 minutes every morning before you open your email. We guarantee you that it will be worth the time.
+
+These are the sessions that we think are most relevant for you as a developer and where you should start your learning journey:
+
+- [What's new: Developer tools](https://www.youtube.com/watch?v=tzeO0mc8RJo)  
+- [What's new: Extending Copilot using AL code](https://www.youtube.com/watch?v=ytYKvn2MiGs&t=18s)  
+- [What's new: Designing generative AI experiences](https://www.youtube.com/watch?v=qP0id91bIlA)
+- [What's new: Key updates in our learning content (documentation) for developers](https://www.youtube.com/watch?v=mnxOSl1Y9PI)  
+- [What's new: Excel layouts for developers](https://www.youtube.com/watch?v=BofJJPqgrTI)  
+- [What's new: Introducing the Business Foundation and the No. Series module](https://www.youtube.com/watch?v=kbRTIWH-nio)
+- [What's new: Going Open Source with the new GitHub repository for Business Central](https://www.youtube.com/watch?v=tjHDcjwsOIE)
+- [In preview: User acceptance testing with the Page Scripting tool](https://www.youtube.com/watch?v=B8cWQGwajwQ)
+
+If AI and Copilot rock your boat, consider diving more into the topic with these sessions:
+
+- [Introducing: Chat with Copilot](https://www.youtube.com/watch?v=j5ULVClJaKU)
+- [Introducing: AI-powered analysis with Copilot](https://www.youtube.com/watch?v=mHrY_OI0qNo)
+- [Introducing: Sales lines suggestions with Copilot](https://www.youtube.com/watch?v=cZCSi6khZFo)
+- [What's new: Extending Copilot using AL code](https://www.youtube.com/watch?v=ytYKvn2MiGs)  
+- [What's new: Designing generative AI experiences](https://www.youtube.com/watch?v=qP0id91bIlA)
+
+You might also want to dive deeper into the Business Central platform, and learn about the server, database, resource governance (in the online version of Business Central), and troubleshooting with telemetry:
+
+- [What’s new: AL runtime and database](https://www.youtube.com/watch?v=OLN-2Ec2GMM)
+- [What's new: Web services in Business Central](https://www.youtube.com/watch?v=VpNQ-CYNrkM)
+
+After you've seen/browsed those sessions, consider spending some time in the Application track. We think that these sessions are particularly useful for developers (or you can just be a hero and send some links to your functional consultant friends): 
+
+- [What's new: Excel reports for finance and sales](https://www.youtube.com/watch?v=gMyp9JkXf9g)
+- [Introducing: Sustainability in Business Central](https://www.youtube.com/watch?v=_ynMUzh956w)
+- [What's new: E-Documents](https://www.youtube.com/watch?v=kAFdLxb2ghc)
+- [What's new: Cost Adjustment](https://www.youtube.com/watch?v=w0okH0v0VvY) 
+- [What's new: Service Management](https://www.youtube.com/watch?v=N8Unj6WLB6U)
+- [What's new: Project Management](https://www.youtube.com/watch?v=dD_2NEs3A40) 
+- [What's new: Financial management - Overview](https://www.youtube.com/watch?v=HI7VcPzR2OE)
+- [What's new: Financial management - Reminder Automation](https://www.youtube.com/watch?v=UTxX4XPLcgQ) 
+- [What's new: Financial management - G/L Account Revaluations](https://www.youtube.com/watch?v=u1oO9MEg9kc) 
+- [What's new: Entering and approving time sheets](https://www.youtube.com/watch?v=MgWlmZAlqGI)
+- [What's new: Business Central Mobile App and Barcode Scanning](https://www.youtube.com/watch?v=W2yhU8eXT5w) 
+- [What's new: Automated IRS1099 reporting](https://www.youtube.com/watch?v=WI_3mjpQ2JU) 
+- [What's new: The Danish Bookkeeping Act](https://www.youtube.com/watch?v=hcu7T3qLdDA)
+
+If you want to dive more into ways to integrate Business central with other services, such as Microsoft Power Platform, Power BI, Microsoft 365, or Shopify, then check out these sessions:
+
+- [What's new: Key updates in learning content (docs) for systems architects and integration developers](https://www.youtube.com/watch?v=gAzmWJg9Z5g)
+- [What's new: Business Central Integration with Power Platform](https://www.youtube.com/watch?v=V_ZyGeF5JXE)
+- [What's new: Using Power Pages with Business Central](https://www.youtube.com/watch?v=auoHUd24Gfw)
+- [What's new: Business Central Integration with Dataverse](https://www.youtube.com/watch?v=-q8Gm7u7R2A)
+- [What's new: Shopify Connector B2B Functionality](https://www.youtube.com/watch?v=3tmaVpPTQLw)
+- [Introducing: Dynamics 365 Field Service Integration with Business Central](https://www.youtube.com/watch?v=ByRoL46n-Gg)
+- [Introducing: Create Power Automate flows with Copilot](https://www.youtube.com/watch?v=T63y0F_38SI)
+
+If you also spend time administering environments, check this out session: 
+
+- [What's new: Governance & Administration](https://www.youtube.com/watch?v=kAwI0EGSyls)
+
+That's all folks! Go learn. Get smart. Be awesome. Help customers.
+
+## 2024-03-12 Want to know how things work? Learn how Business Central integrates to other Microsoft services and products
+
+As developers and solution architects, developing in AL is likely only part of your job. In a world where customers operate in the cloud, integration to other Microsoft services and products is an increasingly important part of Business Central implementations. As children, many of you probably asked a lot of “how does that work?” questions and might have read the book “The way things work” by David Macaulay to satisfy your curiosity. In the Business Central product group we're no different and we asked ourselves: “Why not write the: The way Business Central integrations work" article to give an overview on, which integrations are currently possible and how they work.  
+
+![Shows how Business Central integrates to Microsoft 365](https://raw.githubusercontent.com/microsoft/AL/master/resources/all-integrations.png)
+
+We added new content on the following topics:
+
+- [Overall integration overview](https://aka.ms/bcintegration?wt.mc_id=d365bc_inproduct_alextension)
+- [Integrations to Office/M365](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/m365-integration-overview?wt.mc_id=d365bc_inproduct_alextension)
+- [Integrations to Power Platform](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/powerplatform/powerplatform-integration-overview?wt.mc_id=d365bc_inproduct_alextension)
+- [Integrations to Dataverse](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/dataverse-integration-overview?wt.mc_id=d365bc_inproduct_alextension)
+- [Integrations to Azure](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/integration-azure-overview?wt.mc_id=d365bc_inproduct_alextension)
+- [Integrations to infrastructure services](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/integration-infrastructure-overview?wt.mc_id=d365bc_inproduct_alextension)
+
+Want to check it out? Then start by visiting the new overview article [aka.ms/bcintegration](https://aka.ms/bcintegration?wt.mc_id=d365bc_inproduct_alextension).
+
+That's all for now, folks!
+
+Most of these suggestions we added because you gave us feedback on things you'd like to see in this part of docs. Keep the feedback coming, together we can make docs a really useful tool for AL developers.
+
+
+# 2024-02-28 Working on AppSource apps and per-tenant extensions? Get ready for the next major release
+
+As developers and solution architects, you play a pivotal role in shaping the Business Central ecosystem. We count on you to facilitate a seamless experience for our shared customers as they move to the upcoming major release. Here we want to list some of the key best practices for getting ready for the new major release. 
+
+## AppSource apps 
+
+One month before the next major release, we cease accepting AppSource apps that are incompatible with the upcoming version. Please start identifying and addressing compatibility issues already now, to handle them proactively, avoiding last-minute firefighting and disruption. 
+
+We also start checking the existing AppSource apps for compatibility with the next major release, and publish validation results weekly to a public URL `(aka.ms/readyForNextMajor?appId=<appId>)`, making it easier for you to assess your app’s readiness for the next release. However, as best practice, don't just rely on checking the results of our validation, but perform your own, in your pipelines. For more information, see documentation on [technical validation](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-checklist-submission?wt.mc_id=d365bc_inproduct_alextension). 
+
+In our recent release, we introduced the ability to hotfix older versions of AppSource apps. This means you can continue patching your apps for previous Business Central versions while simultaneously working on the new version targeting the next major release. Your customers running on the previous versions of your apps will therefore not be left behind and get the support they need. Find more information about hotfixing AppSource apps [here](https://learn.microsoft.com/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/hotfix-older-appsource-apps?wt.mc_id=d365bc_inproduct_alextension). 
+
+## Per-tenant extensions  
+
+Also, one month prior to the major release, our system starts notifying customers when their per-tenant extensions are incompatible with the next major release. The notifications are sent via email, to the recipients registered in Business Central Admin Center and via messages in the Microsoft 365 Message Center. Use this information to prioritize fixing your per-tenant extensions, to avoid the risk of disruptions, escalations and dealing with requests to postpone updates. Find more information about our per-tenant validation [here](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-customization-update-lifecycle#automated-extension-validation?wt.mc_id=d365bc_inproduct_alextension).  
+
+Business Central makes a preview version available that allows you to create a sandbox environment available for all customers, one month prior to the major release date. Use this option to upload and test your extensions proactively. Read more about preview environments [here](https://aka.ms/bcpreview?wt.mc_id=d365bc_inproduct_alextension).  
+
+## Get ahead of the game with DevOps solutions 
+
+Business Central provides both AppSource and per-tenant extension builders with an easy to use, rich and secure DevOps solution: AL-Go for GitHub. Find more information [here](https://github.com/microsoft/AL-Go).
+
+Among many other capabilities, AL-Go for GitHub allows developers to easily check compatibility of their apps with any upcoming version, whether minor or major, in real-time with these changes being introduced by Business Central team. Start using this solution or other DevOps solutions available in the Business Central ecosystem to handle compatibility proactively.  
+
+By adhering to these technical best practices, you contribute to a thriving ecosystem. Prepare early, prioritize quality, and deliver exceptional solutions to our mutual customers. Thank you for helping us shape the future of Business Central! 
+
+## More information
+
+- [Maintain AppSource apps and per-tenant extensions](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/app-maintain?wt.mc_id=d365bc_inproduct_alextension)
+- [Lifecycle of apps and extensions](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-app-life-cycle?wt.mc_id=d365bc_inproduct_alextension)
+- [Update Lifecycle for Tenant Customizations](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-customization-update-lifecycle?wt.mc_id=d365bc_inproduct_alextension)
+- [Technical validation FAQ](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-checklist-submission-faq?wt.mc_id=d365bc_inproduct_alextension)
+
+# 2024-01-25 Document reporting with Word layouts documentation just got better!
+
+Over the last weeks, we've worked on improving the developer documentation for Word layouts in Dynamics 365 Business Central.
+
+You find the all the Word layout content in the developer docs in the table of contents under **Development**, choose **Programming in the AL language**, then **Developing reports**, **Report layouts**, **Excel, Word, and RDL report layouts** and then **Creating an Excel layout report**.
+ 
+So what did we do? Well, quite a lot...
+ 
+We added new content on the following topics:
+
+- How to iterate a Word layout over a dataitem (also expanded the article on how WordMergeDataItem works)
+- How to create a new Word layout from Visual Studio Code
+- How to do totals
+- How to use headers/footers, sections, and watermarks
+- How to use fonts
+- How to use hyperlinks
+- How to use tables to control alignment of text and images
+- How to work with pictures in Word layouts
+- Changing layout properties such as margins or orientation
+- Designing layouts for precision printing
+- How to use the same table style for all tables in the layout
+- Design guidelines for a report dataset designed for Word layouts
+- Difference between RDL and Word layouts
+- More content on how to use Office document themes
+- How to use tables to display data from the report dataset (simple repeaters)
+- How to use lists to display data from the report dataset (simple repeaters)
+- How to use nested repeaters to display data from nested dataitems in the report dataset
+- How to do sub totals/running totals
+- How to do conditional formatting
+- Operational limits for reports with Word layouts
+- How to convert an RDL layout to a Word layout
+
+Want to check it out? Then start by visiting the [Creating an Word layout report](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-howto-report-layout?wt.mc_id=d365bc_inproduct_alextension) article.
+
+That's all for now, folks!
+
+Most of these suggestions we added because you gave us feedback on things you'd like to see in this part of docs. Keep the feedback coming, together we can make docs a really useful tool for AL developers.
+
+# 2024-01-11 Error handling documentation just got better!
+ 
+Over the last months, we've worked on improving the developer documentation for error handling in Dynamics 365 Business Central.
+ 
+You find the all the error handling content in the developer docs in the table of contents under **Development**, choose **Programming in the AL language**, and then **Error handling**.
+ 
+So what did we do? Well, quite a lot...
+ 
+- All articles related to error handling (that we're aware of) are now present under **Error handling** in the table of contents.
+- All articles about error handling (that we're aware of) have been updated to reflect latest language features and to include AL example code.
+- New article *Failure modeling and robust coding practices* with two techniques that you can use to make your code more robust towards errors: **failure modeling** and **robust coding practices**.
+- Article *Understanding the error dialog* is updated with a section on how to understand the information in Copy details section. Also a new section explaining how to understand a AL stack trace.
+- New article *User experience guidelines for errors* that offers guidance on how to formulate good error messages, both for older versions of Business Central and for versions supporting the *actionable errors* framework.
+- New article *Actionable errors* that offers guidance on how to handle error dialogs in AL code, specifically how to use the *actionable errors* framework to provide recommended actions to users to resolve errors more effectively.
+- All four articles for telemetry related to errors are available in the *Error telemetry* part of the table of contents.
+- All articles from the AL Language reference documentation (related to error handling) are present in the table of contents and all reference articles have been updated to reflect latest language features and to include examples of robust coding practices.
+- All articles from the Base App reference documentation (related to error handling) are also present in the table of contents.
+  
+Want to check it out? Then start by visiting the new [Error handling](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-al-error-handling?wt.mc_id=d365bc_inproduct_alextension) overview.
+ 
+That's all for now, folks!
+ 
+Most of these suggestions we added because you gave us feedback on things you'd like to see in this part of docs. Keep the feedback coming, together we can make docs a really useful tool for AL developers.
+
 # 2023-12-13 Curious about integrating AI using developer tools for copilot?
 
 With the latest refresh of the documentation, we've added content on how to build a copilot user experience for Business Central. Read about the developer tools, how to get set up with Azure OpenAI service, and how to build the copilot capability and experience in Business Central.
